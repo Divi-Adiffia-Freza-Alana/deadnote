@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "152996457334",
+    "firebase_url": "https://deadnote-85920-default-rtdb.firebaseio.com",
+    "project_id": "deadnote-85920",
+    "storage_bucket": "deadnote-85920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152996457334:android:1263a72cace23335fb6857",
+        "android_client_info": {
+          "package_name": "com.example.deadnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152996457334-hjn8ljnttuolvosbb5er81g1kmlfn6bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjle_sg4ebJ7OYbEJ3XJMG9n2yAG5flPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152996457334-hjn8ljnttuolvosbb5er81g1kmlfn6bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
